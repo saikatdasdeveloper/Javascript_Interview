@@ -1,0 +1,20 @@
+{
+  "name": "javascript_interview",
+  "version": "1.0.0",
+  "main": "evenfun.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saikatdasdeveloper/Javascript_Interview.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saikatdasdeveloper/Javascript_Interview/issues"
+  },
+  "homepage": "https://github.com/saikatdasdeveloper/Javascript_Interview#readme",
+  "description": ""
+}
